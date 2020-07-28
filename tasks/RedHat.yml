@@ -1,0 +1,4 @@
+---
+# tasks file for hoplacloud.mariadb
+- name: No RedHat tasks
+  fail:
